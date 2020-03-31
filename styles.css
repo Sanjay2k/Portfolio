@@ -1,0 +1,145 @@
+.top-container {
+  background-color: #f9ff21;
+  text-align: center;
+  padding-top: 100px;
+  font-family: brandon-grotesque, HelveticaNeue-Light, "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 500;
+  margin: 0 0 0 0;
+  position: relative;
+}
+
+body {
+  margin: 0 auto 0 auto;
+}
+
+.name-h1 {
+  padding-top: 50px;
+  font-size: 75px;
+  font-family: 'Sacramento', cursive;
+  margin-bottom: 0;
+}
+
+.mountain-img {
+  background-color: #f9ff21;
+  margin: 0 auto 0 auto;
+  display: block;
+  width: 29%;
+  margin-top: 20px;
+}
+
+.bird-img {
+  position: absolute;
+  top: 450px;
+  right: 550px;
+  width: 65px;
+}
+
+.middle-container {
+  text-align: center;
+  padding-bottom: 75px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+.profile {
+  padding-bottom: 75px;
+}
+
+p {
+  text-align: center;
+  line-height: 2rem;
+  display: inline;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.skills {
+  padding-top: 75px;
+  width: 50%;
+  display: inline-block;
+  padding-bottom: 120px;
+}
+
+.skill-row {
+  padding-top: 100px;
+  text-align: justify;
+}
+
+.web {
+  width: 10rem;
+  float: right;
+  margin-left: 40px
+}
+
+.code {
+  width: 10rem;
+  float: left;
+  margin-right: 40px;
+}
+
+.intro {
+  width: 25%;
+  display: inline-block;
+}
+
+.contact-me {
+  padding-top: 50px;
+  text-align: center;
+}
+
+.foot-notes {
+  text-align: center;
+  width: 25%;
+  display: inline-block;
+}
+
+.btn {
+  padding: 15px 32px;
+  display: inline-block;
+  text-align: center;
+  align-items: center;
+  color: #3c4245;
+  border: 2px solid #3c4245;
+  margin-top: 20px;
+}
+
+.btn:hover {
+  background-color: #555555;
+  color: white;
+}
+
+.bottom-container {
+  background-color: #414141;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  align-items: center;
+  text-align: center;
+  margin-top: 25px;
+}
+
+a {
+  display: inline-block;
+  align-items: center;
+  padding-right: 10px;
+  padding-left: 10px;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  color: #0fc9e7;
+}
+
+h2 {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
